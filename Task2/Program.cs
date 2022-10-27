@@ -3,7 +3,7 @@
 
 Console.WriteLine("Enter number one: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Enter number one: ");
+Console.WriteLine("Enter number two: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 
 if(num1 > num2)
